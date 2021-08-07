@@ -1,39 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://cuipeng622.github.io/wfsz.github.io</id>
-    <title>广州惠丰水产养殖有限公司</title>
-    <updated>2021-08-07T07:39:34.235Z</updated>
+    <id>https://cuipeng622.github.io</id>
+    <title>茂名市水产科学研究所名优鱼苗养殖基地</title>
+    <updated>2021-08-07T07:44:41.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://cuipeng622.github.io/wfsz.github.io"/>
-    <link rel="self" href="https://cuipeng622.github.io/wfsz.github.io/atom.xml"/>
-    <subtitle>广州惠丰水产养殖有限公司，于1994年创办于广东广州市，在社会各界的大力支持下，企业的规模不断扩大、层次不断提升、结构不断优化。现在已经成为拥有苗种繁育水面150多亩、年可繁育优质苗种逾10亿尾的大型综合性鱼苗、鱼种产销企业；涉及苗种繁育生产，海南一号罗非鱼苗种均被评为广州市名优农产品及广东省重点新产品。鱼苗场长年与全国各地客户和东南亚部分国家保持业务来往，根据市场需求不断开发，更新养殖品种。完美地解决了鱼苗养殖过程中水、种、饵等问题。所有鱼苗个体健康，强壮，色泽艳丽，产品不仅销售到大陆十多个省，还远销台湾、越南、泰国、马来西亚等地。专一繁育罗非鱼苗罗全人工鱼苗生产基地。
+    <link rel="alternate" href="https://cuipeng622.github.io"/>
+    <link rel="self" href="https://cuipeng622.github.io/atom.xml"/>
+    <subtitle>茂名市水产科学研究所名优鱼苗养殖基地，于1994年创办于广东茂名市，在社会各界的大力支持下，企业的规模不断扩大、层次不断提升、结构不断优化。现在已经成为拥有苗种繁育水面150多亩、年可繁育优质苗种逾10亿尾的大型综合性鱼苗、鱼种产销企业；涉及苗种繁育生产，海南一号罗非鱼苗种均被评为茂名市名优农产品及广东省重点新产品。鱼苗场长年与全国各地客户和东南亚部分国家保持业务来往，根据市场需求不断开发，更新养殖品种。完美地解决了鱼苗养殖过程中水、种、饵等问题。所有鱼苗个体健康，强壮，色泽艳丽，产品不仅销售到大陆十多个省，还远销台湾、越南、泰国、马来西亚等    地。专一繁育罗非鱼苗罗全人工鱼苗生产基地。
 本鱼苗场采用国际先进的生产技术，从鱼卵采集、 人工孵化、网箱转性和水质调控等管理都建立 一套系统的体系，使得鱼苗的质量始终如一。
 本鱼苗场生产的罗非鱼苗不但继承发展、改良吉富品系的生长速度，而且耐高温、耐低氧， 特别是抗应激和抗病性优势明显特点突出。
 本鱼苗场视产品质量为生命，真诚服务于广大客户，秉承给渔农之所需、解渔农之所急的服务思想，确保为养殖户提供高质量、齐规格、低价格、无病害、生长速度快的鱼苗，并为客户传授养殖技术，帮助客户增收致富，为社会创造更高的效益。
-我场以诚信经营，用心服务，优质鱼苗取得广大顾客的信赖和支持。同时我场坚持不断创新，致力于研究提高鱼苗抗病能力，投资少高回报的理念。我场多年来销售鱼苗到全国各地，其中有广州、福建、广西、四川、云南、贵州、江西等各地。本场供应的品种有罗非鱼苗,本地塘鲺,大口鲶,淡水白鲳,草鱼苗等优质水产鱼苗惠丰水产养殖水产以客户的利益为第一，销售出去的鱼苗成活率高，质量好，价钱实惠。</subtitle>
-    <logo>https://cuipeng622.github.io/wfsz.github.io/images/avatar.png</logo>
-    <icon>https://cuipeng622.github.io/wfsz.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 广州惠丰水产养殖有限公司</rights>
+我场以诚信经营，用心服务，优质鱼苗取得广大顾客的信赖和支持。同时我场坚持不断创新，致力于研究提高鱼苗抗病能力，投资少高回报的理念。我场多年来销售鱼苗到全国各地，其中有广州、福建、广西、四川、云南、贵州、江西等各地。本场供应的品种有罗非鱼苗,本地塘鲺,大口鲶,淡水白鲳,草鱼苗等优质水产鱼苗科学研究所水产以客户的利益为第一，销售出去的鱼苗成活率高，质量好，价钱实惠。
+</subtitle>
+    <logo>https://cuipeng622.github.io/images/avatar.png</logo>
+    <icon>https://cuipeng622.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, 茂名市水产科学研究所名优鱼苗养殖基地</rights>
     <entry>
         <title type="html"><![CDATA[鲳鱼]]></title>
-        <id>https://cuipeng622.github.io/wfsz.github.io/post/chang-yu/</id>
-        <link href="https://cuipeng622.github.io/wfsz.github.io/post/chang-yu/">
+        <id>https://cuipeng622.github.io/post/chang-yu/</id>
+        <link href="https://cuipeng622.github.io/post/chang-yu/">
         </link>
         <updated>2021-08-07T06:57:43.000Z</updated>
         <content type="html"><![CDATA[<p>鲳鱼<br>
 产品简介：别名有镜鱼、平鱼（《黄渤海鱼类调查报告》），白昌（《中国动物图谱·鱼类》），叉片鱼（江苏、浙江）等。体短而高，极侧扁，略呈菱形。头较小，吻圆，口小，牙细。成鱼腹鳍消失。尾鳍分叉颇深，下叶较长。体银白色，上部微呈青灰色。以甲壳类等动物为食。鲳鱼是热带和亚热带的食用和观赏兼备的大型鱼类。<br>
 鲳鱼是热带和亚热带的食用和观赏兼备的大型热带鱼类。柳州鲳鱼在500-1500克/条左右，肉味有如鲻鱼的香味。其鱼肉中含有的不饱和脂肪酸W-3系列，是减少心血管疾病发生的重要物质，胆固醇含量也低于所有的动物性食品，鲳鱼肉厚、刺少、味佳，营养丰富，是天然营养佳品。柳州鲳鱼体形侧扁成盘形，背较厚，口端位，无须，体呈白色、银鳞、黑尾、线鳍，四色相配极为美观。</p>
 <p>脊椎动物，鱼纲，鲳科。体侧扁而高，呈卵圆形或近菱形，银灰色。体被小圆鳞，侧线完全，位较高。头小，吻圆，口圆小，吻稍突出。齿细小，两颌各有1列。背鳍长，臀鳍与背鳍形状相似;胸鳍较长;尾鳍分叉。成鱼腹鳍消失。以小鱼、甲壳类等为食。为近海中下层鱼类。肉味鲜美，可制成罐头食品。鱼鳞可制装饰品的发光面。为名贵食用经济鱼类，产量较大，我国沿海均有分布。又称银鲳。俗称“平鱼”(河北、山东)，“车片鱼”(江浙)，“白鲳”(广东)。由于刺极少，最适老年人食用。<br>
-鱼苗产地：广州惠丰水产养殖有限公司<br>
-鱼苗地址： 广州市花都区花山镇洛场村十五队和庄自编29号<br>
-联系手机：13902248303 13631488303<br>
+鱼苗产地：茂名市水产科学研究所名优鱼苗养殖基地<br>
+鱼苗地址：茂名市公馆镇荔枝塘村<br>
+联系手机：13580001052  13360285052<br>
 运输方式：由养殖场安排专车送货上门或用客运车送货上门</p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[大口鲶]]></title>
-        <id>https://cuipeng622.github.io/wfsz.github.io/post/da-kou-nian/</id>
-        <link href="https://cuipeng622.github.io/wfsz.github.io/post/da-kou-nian/">
+        <id>https://cuipeng622.github.io/post/da-kou-nian/</id>
+        <link href="https://cuipeng622.github.io/post/da-kou-nian/">
         </link>
         <updated>2021-08-07T06:56:47.000Z</updated>
         <content type="html"><![CDATA[<p>大口鲶，Silurus soldatovi meridionalis Chen，属鲶形目、鲶科、鲶属的一种鱼类。 地方名：六须鲶、河鲶华、叉口鲶、鲶巴朗、大口鲶、大河鲶、大鲶鲐等 外形与鲶相似，两者的区别是大口鲶鱼口裂末端达到或超过眼中部的下方。上颌须达到胸鳍基部。胸鳍刺前缘具2～3排颗粒状突起。尾鳍不对称，上叶比下叶长。</p>
@@ -54,16 +55,16 @@
 <p>2、饵料投喂 大口鲶属肉食性鱼类，主要以活鱼或冰鲜鱼、动物内脏为饵料，但也可通过人工驯化摄食人工配合饲料。</p>
 <p>(1)肉食性饵料：投放大口鲶鱼种时，相应投放比其稍小的鲤、鲫等鱼种，每日仍以冰鲜鱼块为主，也可投喂猪肺、牛肺等动物内脏，在这些动物性饲料无法保障时，可通过人工驯食，摄食人工配合饲料，能收到较好的效果。</p>
 <p>(2)人工配合饲料：配合饲料蛋白质含量在41%-50%，投喂时各池设(2-4)个饵料台，便于观察摄食情况。</p>
-<p>鱼苗产地：广州惠丰水产养殖有限公司<br>
-鱼苗地址： 广州市花都区花山镇洛场村十五队和庄自编29号<br>
-联系手机：13902248303 13631488303<br>
+<p>鱼苗产地：茂名市水产科学研究所名优鱼苗养殖基地<br>
+鱼苗地址：茂名市公馆镇荔枝塘村<br>
+联系手机：13580001052  13360285052<br>
 运输方式：由养殖场安排专车送货上门或用客运车送货上门</p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[大头鱼]]></title>
-        <id>https://cuipeng622.github.io/wfsz.github.io/post/da-tou-yu/</id>
-        <link href="https://cuipeng622.github.io/wfsz.github.io/post/da-tou-yu/">
+        <id>https://cuipeng622.github.io/post/da-tou-yu/</id>
+        <link href="https://cuipeng622.github.io/post/da-tou-yu/">
         </link>
         <updated>2021-08-07T06:55:31.000Z</updated>
         <content type="html"><![CDATA[<p>产品简介：大头鱼苗因食性简单，饵料来源广泛，且生长迅速，产量高，常被作为池塘、湖泊、水库、河道养殖的主要对象。<br>
@@ -71,18 +72,18 @@
 鱼苗规格：5-15cm<br>
 生活层次：中层<br>
 放养密度：20-30尾/亩<br>
-鱼苗产地：广州惠丰水产养殖有限公司<br>
-鱼苗地址： 广州市花都区花山镇洛场村十五队和庄自编29号<br>
-联系手机：13902248303 13631488303<br>
-运输方式：由养殖场安排专车送货上门或用客运车送货上门<br>
-大头鱼是鳙鱼的突变种，在分类学上属鲤形目鲤科鳙属，广东人将鳙鱼称为大头鱼。其主要特征是头部特大，味道，清蒸大头以“嫩、鲜、滑”而驰名遐远。 鱼中的“驼背佬”说了半天，究竟何谓缩骨鱼。先举一例，正常一条四斤重的大鱼，背脊骨一般会有50公分长，但缩骨鱼只有它的一半。缩骨鱼头大，身材相对较小，通俗地说是鱼中的“驼背佬”。 肉都集中于靠近头部的位置，因而其肉质更加紧密、细滑，清蒸鱼头更是不错的做法。 “缩骨鱼”是食神蔡澜先生心中一直念念不忘的“仙骨鱼”，所谓“吃一口，肉幼细、清香，鲜甜，是天下之绝品”。 我公司专门针对大头的特性，繁殖出体态更为完美、生长速度更加快的优质鱼苗，是养殖户开展高效养殖的选择。</p>
+鱼苗产地：茂名市水产科学研究所名优鱼苗养殖基地<br>
+鱼苗地址：茂名市公馆镇荔枝塘村<br>
+联系手机：13580001052  13360285052<br>
+运输方式：由养殖场安排专车送货上门或用客运车送货上门</p>
+<p>大头鱼是鳙鱼的突变种，在分类学上属鲤形目鲤科鳙属，广东人将鳙鱼称为大头鱼。其主要特征是头部特大，味道，清蒸大头以“嫩、鲜、滑”而驰名遐远。 鱼中的“驼背佬”说了半天，究竟何谓缩骨鱼。先举一例，正常一条四斤重的大鱼，背脊骨一般会有50公分长，但缩骨鱼只有它的一半。缩骨鱼头大，身材相对较小，通俗地说是鱼中的“驼背佬”。 肉都集中于靠近头部的位置，因而其肉质更加紧密、细滑，清蒸鱼头更是不错的做法。 “缩骨鱼”是食神蔡澜先生心中一直念念不忘的“仙骨鱼”，所谓“吃一口，肉幼细、清香，鲜甜，是天下之绝品”。 我公司专门针对大头的特性，繁殖出体态更为完美、生长速度更加快的优质鱼苗，是养殖户开展高效养殖的选择。</p>
 <p>大头鱼养殖方法简单、生长速度快，是各大客户的称赏好对象。</p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[鳊鱼苗]]></title>
-        <id>https://cuipeng622.github.io/wfsz.github.io/post/bian-yu-miao/</id>
-        <link href="https://cuipeng622.github.io/wfsz.github.io/post/bian-yu-miao/">
+        <id>https://cuipeng622.github.io/post/bian-yu-miao/</id>
+        <link href="https://cuipeng622.github.io/post/bian-yu-miao/">
         </link>
         <updated>2021-08-07T06:54:06.000Z</updated>
         <content type="html"><![CDATA[<p>鳊鱼，学名：Parabramis pekinensis  (Basilewsky, 1855) ，又名鳊，亦称长身鳊、鳊花、油鳊；古名槎头鳊，缩项鳊。在中国，鳊鱼也为三角鲂、团头鲂（武昌鱼）的统称。体长40厘米左右，比较适于静水性生活。生长迅速、适应能力强、食性广。因其肉质嫩滑，味道鲜美，是中国主要淡水养殖鱼类之一。<br>
@@ -96,11 +97,11 @@
 鱼苗规格：5-15cm<br>
 生活层次：中层<br>
 放养密度：30-50尾/亩<br>
-鱼苗产地：广州惠丰水产养殖有限公司<br>
-鱼苗地址： 广州市花都区花山镇洛场村十五队和庄自编29号<br>
-联系手机：13902248303 13631488303<br>
-运输方式：由养殖场安排专车送货上门或用客运车送货上门<br>
-鳊鱼食性<br>
+鱼苗产地：茂名市水产科学研究所名优鱼苗养殖基地<br>
+鱼苗地址：茂名市公馆镇荔枝塘村<br>
+联系手机：13580001052  13360285052<br>
+运输方式：由养殖场安排专车送货上门或用客运车送货上门</p>
+<p>鳊鱼食性<br>
 鳊鱼为草食性鱼类，鱼种及成鱼以苦草、轮叶黑藻、眼子菜等水生维管束植物为主要食料，也喜欢吃陆生禾本科植物和菜叶，还能摄食部分湖底植物碎屑和少量浮游动物，因此食性范围较广。<br>
 鳊鱼生长<br>
 鳊鱼属于中型鱼类，生长速度较快，以1—2龄生长最快。在水草较丰盛的条件下，一般当年鱼体重可达400—500克</p>
@@ -108,8 +109,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[草鱼生活习性的介绍]]></title>
-        <id>https://cuipeng622.github.io/wfsz.github.io/post/cao-yu-sheng-huo-xi-xing-de-jie-shao/</id>
-        <link href="https://cuipeng622.github.io/wfsz.github.io/post/cao-yu-sheng-huo-xi-xing-de-jie-shao/">
+        <id>https://cuipeng622.github.io/post/cao-yu-sheng-huo-xi-xing-de-jie-shao/</id>
+        <link href="https://cuipeng622.github.io/post/cao-yu-sheng-huo-xi-xing-de-jie-shao/">
         </link>
         <updated>2021-08-07T06:53:06.000Z</updated>
         <content type="html"><![CDATA[<p>草鱼作为四大家鱼，是我国重要的经济鱼种之一，同时野生的草鱼数量也是众多的，这得益于草鱼的杂食性特点。草鱼的个体较大，几斤到十几斤的草鱼较为常见，茂名市水产科学研究站名优鱼苗养殖基地将详细为大家介绍草鱼的生活习性，大家可以学习了解，根据习性针对性作钓草鱼。<br>
@@ -118,16 +119,16 @@
 和鲫鱼鲤鱼不同，草鱼喜好高温天气，在盛夏是草鱼为活跃的时间段，摄食欲望非常强烈，而盛夏因为水温较高，很多鱼在此时活性反而降低，摄食欲望减少，因此盛夏作钓草鱼是不错的选择。当水温降低到20℃，草鱼的活性便开始下降，因此早晚并不是作钓草鱼的好时间。<br>
 草鱼有聚群的特性，往往都是成群活动，这和很多鱼类一样，会有成群结队的习性，一方面能够躲避危险，另一方面草鱼进食的草区都固定，因此常常在觅食区域聚集好几条草鱼，形成草鱼群。<br>
 草鱼对于水质的要求还是较高的，喜好水情偏瘦，干净的水域，一般肥水塘或者浑水塘很难有草鱼生存，因此不少养殖草鱼的塘口会放入一些罗非鱼，净化水质，同时也控制水体的肥瘦程度。<br>
-鱼苗产地：广州惠丰水产养殖有限公司<br>
-鱼苗地址： 广州市花都区花山镇洛场村十五队和庄自编29号<br>
-联系手机：13902248303 13631488303<br>
+鱼苗产地：茂名市水产科学研究所名优鱼苗养殖基地<br>
+鱼苗地址：茂名市公馆镇荔枝塘村<br>
+联系手机：13580001052  13360285052<br>
 运输方式：由养殖场安排专车送货上门或用客运车送货上门</p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[罗非鱼疾病与防治技术]]></title>
-        <id>https://cuipeng622.github.io/wfsz.github.io/post/luo-fei-yu-ji-bing-yu-fang-zhi-ji-zhu/</id>
-        <link href="https://cuipeng622.github.io/wfsz.github.io/post/luo-fei-yu-ji-bing-yu-fang-zhi-ji-zhu/">
+        <id>https://cuipeng622.github.io/post/luo-fei-yu-ji-bing-yu-fang-zhi-ji-zhu/</id>
+        <link href="https://cuipeng622.github.io/post/luo-fei-yu-ji-bing-yu-fang-zhi-ji-zhu/">
         </link>
         <updated>2021-08-07T06:47:29.000Z</updated>
         <content type="html"><![CDATA[<p>鱼以群栖方式生活在水中，一旦发生鱼病，很快就会蔓延开来，检查、隔离、服药都比陆生家畜更为困难。因此，鱼病防治工作，必须贯彻以防为主，全面预防，积极治疗，无病先防，有病早治的方针。对换水条件较差的鱼塘应积极预防，通常的方法是每月按12kg/亩，全池泼石灰一次。<br>
@@ -167,16 +168,16 @@
 4、鱼鲺病<br>
 病原由日本鱼鲺寄生引起，病鱼不安，狂游，群集水面做跳跃急游行动。<br>
 防治方法：敌百虫（晶体90%）每立方米体水用0.25—0.5克<br>
-鱼苗产地：广州惠丰水产养殖有限公司<br>
-鱼苗地址： 广州市花都区花山镇洛场村十五队和庄自编29号<br>
-联系手机：13902248303 13631488303<br>
+鱼苗产地：茂名市水产科学研究所名优鱼苗养殖基地<br>
+鱼苗地址：茂名市公馆镇荔枝塘村<br>
+联系手机：13580001052  13360285052<br>
 运输方式：由养殖场安排专车送货上门或用客运车送货上门</p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[罗非鱼苗]]></title>
-        <id>https://cuipeng622.github.io/wfsz.github.io/post/luo-fei-yu-miao/</id>
-        <link href="https://cuipeng622.github.io/wfsz.github.io/post/luo-fei-yu-miao/">
+        <id>https://cuipeng622.github.io/post/luo-fei-yu-miao/</id>
+        <link href="https://cuipeng622.github.io/post/luo-fei-yu-miao/">
         </link>
         <updated>2021-08-04T11:03:57.000Z</updated>
         <content type="html"><![CDATA[<p>产品简介：罗非鱼苗因食性简单，饵料来源广泛，且生长迅速，产量高，常被作为池塘、湖泊、水库、河道养殖的主要对象。<br>
@@ -184,11 +185,11 @@
 鱼苗规格：2-4cm<br>
 生活层次：中层<br>
 放养密度：2000-3000尾/亩<br>
-鱼苗产地：广州惠丰水产养殖有限公司<br>
-鱼苗地址： 广州市花都区花山镇洛场村十五队和庄自编29号<br>
-联系手机：13902248303 13631488303<br>
-运输方式：由养殖场安排专车送货上门或用客运车送货上门<br>
-新一代罗非鱼的特点：</p>
+鱼苗产地：茂名市水产科学研究所名优鱼苗养殖基地<br>
+鱼苗地址：茂名市公馆镇荔枝塘村<br>
+联系手机：13580001052  13360285052<br>
+运输方式：由养殖场安排专车送货上门或用客运车送货上门</p>
+<p>新一代罗非鱼的特点：</p>
 <p>1、生长速度快，比其他品系罗非鱼快20-30%。新一代罗非鱼从2-3厘米开始饲养，在温度适当的条件下，四个月可长到500克以上，五个月，达到800克以上。<br>
 2、背宽肉厚，出肉率高。新一代罗非加工成肉片，净出肉率达42%，高出奥尼罗非鱼等其他杂交罗非鱼的38%，比一般罗非鱼32%出肉率高出整整10个百分点。<br>
 3、雄性率高，抗寒性强。新一代罗非鱼通过生物工程处理，雄性率可达95%以上，有效克服了过度繁殖的缺陷，新一代罗非鱼死亡温度低限范围是11-8.4摄氏度，比其他品系罗非鱼高1摄氏度左右。<br>
@@ -197,26 +198,26 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[品种展示]]></title>
-        <id>https://cuipeng622.github.io/wfsz.github.io/post/pin-chong-zhan-shi/</id>
-        <link href="https://cuipeng622.github.io/wfsz.github.io/post/pin-chong-zhan-shi/">
+        <id>https://cuipeng622.github.io/post/pin-chong-zhan-shi/</id>
+        <link href="https://cuipeng622.github.io/post/pin-chong-zhan-shi/">
         </link>
         <updated>2021-08-04T10:57:09.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://cuipeng622.github.io/wfsz.github.io/post-images/1628074691606.jpg" alt="" loading="lazy"><br>
-<img src="https://cuipeng622.github.io/wfsz.github.io/post-images/1628074699788.jpg" alt="" loading="lazy"><br>
-<img src="https://cuipeng622.github.io/wfsz.github.io/post-images/1628074705736.jpg" alt="" loading="lazy"><br>
-<img src="https://cuipeng622.github.io/wfsz.github.io/post-images/1628074710826.jpg" alt="" loading="lazy"><br>
-<img src="https://cuipeng622.github.io/wfsz.github.io/post-images/1628074717992.jpg" alt="" loading="lazy"><br>
-<img src="https://cuipeng622.github.io/wfsz.github.io/post-images/1628074723386.jpg" alt="" loading="lazy"><br>
-<img src="https://cuipeng622.github.io/wfsz.github.io/post-images/1628074730972.jpg" alt="" loading="lazy"></p>
+        <content type="html"><![CDATA[<p><img src="https://cuipeng622.github.io/post-images/1628074691606.jpg" alt="" loading="lazy"><br>
+<img src="https://cuipeng622.github.io/post-images/1628074699788.jpg" alt="" loading="lazy"><br>
+<img src="https://cuipeng622.github.io/post-images/1628074705736.jpg" alt="" loading="lazy"><br>
+<img src="https://cuipeng622.github.io/post-images/1628074710826.jpg" alt="" loading="lazy"><br>
+<img src="https://cuipeng622.github.io/post-images/1628074717992.jpg" alt="" loading="lazy"><br>
+<img src="https://cuipeng622.github.io/post-images/1628074723386.jpg" alt="" loading="lazy"><br>
+<img src="https://cuipeng622.github.io/post-images/1628074730972.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[基地简介]]></title>
-        <id>https://cuipeng622.github.io/wfsz.github.io/post/hello-gridea/</id>
-        <link href="https://cuipeng622.github.io/wfsz.github.io/post/hello-gridea/">
+        <id>https://cuipeng622.github.io/post/hello-gridea/</id>
+        <link href="https://cuipeng622.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>广州惠丰水产养殖有限公司，于1994年创办于广东广州市，在社会各界的大力支持下，企业的规模不断扩大、层次不断提升、结构不断优化。现在已经成为拥有苗种繁育水面150多亩、年可繁育优质苗种逾10亿尾的大型综合性鱼苗、鱼种产销企业；涉及苗种繁育生产，海南一号罗非鱼苗种均被评为广州市名优农产品及广东省重点新产品。鱼苗场长年与全国各地客户和东南亚部分国家保持业务来往，根据市场需求不断开发，更新养殖品种。完美地解决了鱼苗养殖过程中水、种、饵等问题。所有鱼苗个体健康，强壮，色泽艳丽，产品不仅销售到大陆十多个省，还远销台湾、越南、泰国、马来西亚等地。专一繁育罗非鱼苗罗全人工鱼苗生产基地。<br>
+        <content type="html"><![CDATA[<p>茂名市水产科学研究所名优鱼苗养殖基地，于1994年创办于广东茂名市，在社会各界的大力支持下，企业的规模不断扩大、层次不断提升、结构不断优化。现在已经成为拥有苗种繁育水面150多亩、年可繁育优质苗种逾10亿尾的大型综合性鱼苗、鱼种产销企业；涉及苗种繁育生产，海南一号罗非鱼苗种均被评为茂名市名优农产品及广东省重点新产品。鱼苗场长年与全国各地客户和东南亚部分国家保持业务来往，根据市场需求不断开发，更新养殖品种。完美地解决了鱼苗养殖过程中水、种、饵等问题。所有鱼苗个体健康，强壮，色泽艳丽，产品不仅销售到大陆十多个省，还远销台湾、越南、泰国、马来西亚等地。专一繁育罗非鱼苗罗全人工鱼苗生产基地。<br>
 本鱼苗场采用国际先进的生产技术，从鱼卵采集、 人工孵化、网箱转性和水质调控等管理都建立 一套系统的体系，使得鱼苗的质量始终如一。<br>
 本鱼苗场生产的罗非鱼苗不但继承发展、改良吉富品系的生长速度，而且耐高温、耐低氧， 特别是抗应激和抗病性优势明显特点突出。<br>
 本鱼苗场视产品质量为生命，真诚服务于广大客户，秉承给渔农之所需、解渔农之所急的服务思想，确保为养殖户提供高质量、齐规格、低价格、无病害、生长速度快的鱼苗，并为客户传授养殖技术，帮助客户增收致富，为社会创造更高的效益。<br>
